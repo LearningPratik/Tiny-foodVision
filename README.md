@@ -1,4 +1,11 @@
 # Tiny-foodVision
+
+Architecture:
+
+* Used a simple neural network to predict and learn.
+* Then replicated TinyVGG architecture to predict and learn.
+* TinyVGG - https://poloclub.github.io/cnn-explainer/
+
 Observations:
 
 * With Data augmentation, model performed well so applying data augmentation is useful.
